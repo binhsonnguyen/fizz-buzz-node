@@ -1,7 +1,4 @@
-export function FizzBuzz () {
-  this.answer = () => {
-
-  }
+class FizzBuzz {
 }
 
 const fizzBuzz = FizzBuzz
