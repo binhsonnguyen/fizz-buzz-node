@@ -1,6 +1,6 @@
 class FizzBuzz {
   answer (number) {
-    return undefined
+    return 'Fizz'
   }
 }
 
