@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  fizzbuzz:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fizzbuzz
+    restart: unless-stopped
+    ports:
+      - 8080:3000
