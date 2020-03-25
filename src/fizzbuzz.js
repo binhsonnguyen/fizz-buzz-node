@@ -1,7 +1,7 @@
 class FizzBuzz {
 }
 
-const fizzBuzz = FizzBuzz
+const fizzBuzz = new FizzBuzz()
 Object.freeze(fizzBuzz)
 
 export default fizzBuzz
