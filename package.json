@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/binhsonnguyen/fizz-buzz-node/issues"
   },
-  "homepage": "https://github.com/binhsonnguyen/fizz-buzz-node#readme"
+  "homepage": "https://github.com/binhsonnguyen/fizz-buzz-node#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
 }
